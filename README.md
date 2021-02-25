@@ -10,12 +10,12 @@ Introductory Problems
 | Problems              | Hints                             |
 |-----------------------|-----------------------------------|
 | Weird Algorithm       |                                   |
-| Missing Number        |                                   |
-| Increasing Array      |                                   |
-| Permutations          |                                   |
-| Number Spiral         |                                   |
+| Missing Number        | make a sum                        |
+| Increasing Array      | use current max                   |
+| Permutations          | generate one by one               |
+| Number Spiral         | cases, max(y, x)                  |
 | Two Knights           | count how many 2x3 and 3x2 blocks |
-| Two Sets              |                                   |
+| Two Sets              | cases                             |
 | Bit Strings           |                                   |
 | Trailing Zeros        |                                   |
 | Coin Piles            |                                   |
